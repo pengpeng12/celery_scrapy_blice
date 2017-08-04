@@ -10,6 +10,8 @@ mail_user="lyben@blice.cn"    #用户名
 mail_pass="520521@libin"   #口令
 
 
+
+
 def send_mail(to_list,sub,content):  #to_list：收件人；sub：主题；content：邮件内容
     me="<"+mail_user+">"   #显示发件人
     msg = MIMEText(content,_subtype='html',_charset='utf-8')    #创建一个实例，这里设置为html格式邮件

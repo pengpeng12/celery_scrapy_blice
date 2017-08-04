@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E:\2017-07-02\.idea\2017-07-02.iml" filepath="E:\2017-07-02\.idea\2017-07-02.iml" />
+      <module fileurl="file://E:/2017-07-02/.idea/2017-07-02.iml" filepath="E:/2017-07-02/.idea/2017-07-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/celery_blice.iml" filepath="$PROJECT_DIR$/.idea/celery_blice.iml" />
-      <module fileurl="file://G:\BaiduNetdiskDownload\ksxing\.idea\ksxing.iml" filepath="G:\BaiduNetdiskDownload\ksxing\.idea\ksxing.iml" />
+      <module fileurl="file://G:/BaiduNetdiskDownload/ksxing/.idea/ksxing.iml" filepath="G:/BaiduNetdiskDownload/ksxing/.idea/ksxing.iml" />
     </modules>
   </component>
 </project>

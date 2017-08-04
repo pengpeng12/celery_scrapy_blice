@@ -7,6 +7,10 @@
 from tencent.items import *
 import MySQLdb,time
 from loadJson import LoadJson
+from slaves.tencent.tencent.tencent.items import TencentItemMovieInfo, TencentItemMovieInfoUpdate, TencentItemTvInfo, \
+    TencentItemTvInfoUpdate, TencentItemVarietyVideo, TencentItemCartoonVideo, TencentItemCartoonVideoData, \
+    TencentItemVarietyVideoData, TencentItemMovieData, TencentItemTVData, TencentItemCartoonData, \
+    TencentItemMovieComment, TencentItemTVComment, TencentItemVarietyComment
 
 createTime = time.strftime("%Y-%m-%d",time.localtime())
 updateTime = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())

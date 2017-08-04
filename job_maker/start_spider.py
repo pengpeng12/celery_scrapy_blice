@@ -36,6 +36,7 @@ class task_maker:
 
     def __init__(self):
 
+
         #reguter the worker queue
         self.data_queue = "demo_queue"
         self.routing_key = "for_demo"
